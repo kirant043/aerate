@@ -1,0 +1,966 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cal",
+				"calendar"
+			],
+			[
+				"web",
+				"web_detail"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"grid",
+				"grid_4"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"nav",
+				"nav-open"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"b",
+				"body"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"p",
+				"png"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"sl",
+				"slow"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ps",
+				"position"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"chn",
+				"Change"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"cl",
+				"clear"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/F/xampp/htdocs/t-hub/events.html",
+			"settings":
+			{
+				"buffer_size": 44190,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/F/xampp/htdocs/t-hub/cal/lib/fullcalendar.js",
+			"settings":
+			{
+				"buffer_size": 379253,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/F/xampp/htdocs/t-hub/js/fullcalendar.min.js",
+			"settings":
+			{
+				"buffer_size": 231837,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/F/xampp/htdocs/t-hub/scss/pages/_events.scss",
+			"settings":
+			{
+				"buffer_size": 16203,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/F/xampp/htdocs/t-hub/cal/lib/fullcalendar.css",
+			"settings":
+			{
+				"buffer_size": 30847,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/f1studioz/AppData/Local/Temp/Rar$DIa0.520/fullcalendar.css",
+			"settings":
+			{
+				"buffer_size": 30834,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/F/xampp/htdocs/acheron/js/app.js",
+			"settings":
+			{
+				"buffer_size": 3010,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/F/xampp/htdocs/acheron-pm/js/app.js",
+			"settings":
+			{
+				"buffer_size": 6111,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/F/xampp/htdocs/acheron-pm/pages/cal-deliverable.html",
+			"settings":
+			{
+				"buffer_size": 11775,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "s",
+		"selected_items":
+		[
+			[
+				"s",
+				"SassBeautify"
+			],
+			[
+				"ht",
+				"HTMLPrettify"
+			],
+			[
+				"h",
+				"HTMLPrettify"
+			],
+			[
+				"beau",
+				"SassBeautify"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/xampp/htdocs/t-hub",
+		"/F/xampp/htdocs/t-hub/cal",
+		"/F/xampp/htdocs/t-hub/cal/lib",
+		"/F/xampp/htdocs/t-hub/js",
+		"/F/xampp/htdocs/t-hub/scss",
+		"/F/xampp/htdocs/t-hub/scss/pages"
+	],
+	"file_history":
+	[
+		"/C/Users/f1studioz/AppData/Local/Temp/Rar$DIa0.462/fullcalendar.js",
+		"/F/xampp/htdocs/aerate/contact-us.html",
+		"/F/xampp/htdocs/cworld/css/flexslider.css",
+		"/F/xampp/htdocs/couponhomes/theme/default/inc.search_header.php",
+		"/F/xampp/htdocs/tasko.in/assets/css/responsive-tabs.css",
+		"/C/Users/f1studioz/Desktop/Responsive-Tabs-master/index.html",
+		"/F/xampp/htdocs/tasko.in/assets/js/tabulous.js",
+		"/F/xampp/htdocs/tasko.in/assets/css/tabulous.css",
+		"/F/xampp/htdocs/tasko.in/assets/css/jquery.fullPage.css",
+		"/C/Users/f1studioz/Desktop/fullPage.js-master/examples/backgroundVideo.html",
+		"/F/xampp/htdocs/tasko.in/assets/css/examples.css",
+		"/F/xampp/htdocs/tasko.in/assets/js/examples.js",
+		"/C/Users/f1studioz/Desktop/fullPage.js-master/examples/easing.html",
+		"/F/xampp/htdocs/cworld/home.php",
+		"/F/xampp/htdocs/cworld/.htaccess",
+		"/F/xampp/htdocs/cworld/detail.php",
+		"/F/xampp/htdocs/cworld/config.php",
+		"/F/xampp/htdocs/cworld/classes/database.php",
+		"/F/xampp/htdocs/cworld/install/index.php",
+		"/C/Users/f1studioz/Downloads/WebAdmin.postman_collection.json",
+		"/F/xampp/htdocs/the99app/config.inc.php",
+		"/F/xampp/htdocs/the99app/the99App/config.inc.php",
+		"/F/xampp/htdocs/the99app/css/style.css",
+		"/F/xampp/htdocs/the99app/index.php",
+		"/F/xampp/htdocs/the99app/fetch_posts.php",
+		"/C/Users/f1studioz/AppData/Local/Temp/Rar$DIa0.493/config.php",
+		"/C/Users/f1studioz/Desktop/.htaccess",
+		"/F/xampp/htdocs/the99app/the99App/index.php",
+		"/F/xampp/htdocs/the99app/the99App/css/style.css",
+		"/F/xampp/htdocs/the99app/the99App/js/js/jquery.fullPage.js",
+		"/F/xampp/htdocs/the99app/css/main.css",
+		"/F/xampp/htdocs/the99app/js/js/scripts.js",
+		"/F/xampp/htdocs/the99app/js/jquery.scrollappear.js",
+		"/F/xampp/htdocs/the99app/js/js/jquery.fullPage.js",
+		"/F/xampp/htdocs/the99app/css/theme.css",
+		"/F/xampp/htdocs/the99app/js/js/jquery.appear.js",
+		"/F/xampp/htdocs/the99app/js/script.js",
+		"/F/xampp/htdocs/spammart/pages/header.html",
+		"/F/xampp/htdocs/spammart/scss/pages/_profile.scss",
+		"/F/xampp/htdocs/spammart/pages/profile.html",
+		"/F/xampp/htdocs/spammart/js/controllers.js",
+		"/F/xampp/htdocs/spammart/pages/tab1.html",
+		"/F/xampp/htdocs/spammart/js/app.js",
+		"/F/xampp/htdocs/spammart/scss/main.scss",
+		"/C/Users/f1studioz/Desktop/process_interaction.js",
+		"/F/xampp/htdocs/webadmin/all-payments.php",
+		"/F/xampp/htdocs/webadmin/vendor-profile.php",
+		"/F/xampp/htdocs/webadmin/demo/all_payments.php",
+		"/F/xampp/htdocs/webadmin/all-services.php",
+		"/F/xampp/htdocs/webadmin/service-detail.php",
+		"/F/xampp/htdocs/webadmin/add-service.php",
+		"/F/xampp/htdocs/webadmin/demo/all_services.php",
+		"/F/xampp/htdocs/webadmin/add-payment.php",
+		"/F/xampp/htdocs/webadmin/customer-profile.php",
+		"/F/xampp/htdocs/webadmin/all-users.php",
+		"/F/xampp/htdocs/webadmin/add-user.php",
+		"/F/xampp/htdocs/webadmin/demo/all_users.php",
+		"/F/xampp/htdocs/metronic/admin_5/form_dropzone.html",
+		"/F/xampp/htdocs/webadmin/add-vendor.php",
+		"/F/xampp/htdocs/webadmin/reports.php",
+		"/F/xampp/htdocs/webadmin/index.php",
+		"/F/xampp/htdocs/webadmin/header.php",
+		"/F/xampp/htdocs/metronic/admin_5/page_general_invoice_2.html",
+		"/F/xampp/htdocs/webadmin/invoice.php",
+		"/F/xampp/htdocs/webadmin/assets/pages/css/invoice-2.min.css",
+		"/F/xampp/htdocs/webadmin/assets/pages/css/invoice-2.css",
+		"/F/xampp/htdocs/metronic/admin_5/components_typeahead.html",
+		"/F/xampp/htdocs/metronic/admin_5/components_date_time_pickers.html",
+		"/F/xampp/htdocs/webadmin/demo/typeahead_custom.php",
+		"/F/xampp/htdocs/webadmin/assets/pages/scripts/components-typeahead.min.js",
+		"/F/xampp/htdocs/webadmin/assets/pages/scripts/components-date-time-pickers.min.js",
+		"/F/xampp/htdocs/webadmin/assets/global/plugins/typeahead/typeahead.bundle.min.js",
+		"/F/xampp/htdocs/webadmin/assets/pages/scripts/table-datatables-ajax.min.js",
+		"/F/xampp/htdocs/metronic/admin_5/form_wizard.html",
+		"/F/xampp/htdocs/webadmin/demo/all_services_cat.php",
+		"/F/xampp/htdocs/webadmin/all-customers.php",
+		"/F/xampp/htdocs/webadmin/all-categories.php",
+		"/F/xampp/htdocs/webadmin/category-detail.php",
+		"/F/xampp/htdocs/webadmin/add-service-cat.php",
+		"/F/xampp/htdocs/webadmin/vendor-ratings.php",
+		"/F/xampp/htdocs/webadmin/customer-ratings.php",
+		"/F/xampp/htdocs/webadmin/orders-detail.php",
+		"/F/xampp/htdocs/webadmin/assets/layouts/layout5/css/custom.min.css",
+		"/F/xampp/htdocs/webadmin/assets/pages/scripts/components-ion-sliders.min.js",
+		"/F/xampp/htdocs/webadmin/demo/all_customers.php",
+		"/F/xampp/htdocs/webadmin/assets/pages/scripts/components-multi-select.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<open files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"fc-view-container",
+			"equalH",
+			"10",
+			"scroll",
+			".fc-unthemed .fc-list-empty",
+			"header",
+			"eventLists",
+			"equalHeight",
+			"all",
+			"<title>Investment Expert</title>",
+			"url",
+			"img",
+			"#header",
+			"100vh",
+			"@media",
+			"#contact",
+			"flexslider-icon",
+			"section-t",
+			"intro",
+			"anima",
+			"section-title",
+			"ourdreams",
+			"\t\t\t\t\t\n",
+			"animation",
+			"intro-about",
+			"section-title",
+			"item-list-right",
+			"left-part",
+			"animation",
+			"animation-delay",
+			"animation-box",
+			"benefits",
+			"inner",
+			"height",
+			"video",
+			"menu",
+			"video",
+			"menu",
+			"fadeInLeft",
+			"section-image",
+			".section-image",
+			"setMouseWheelScrolling",
+			"\n\t\t\t\taddMouseWheelHandler();",
+			"setMouseWheelScrolling",
+			"autoScrolling",
+			"setAutoScrolling",
+			"normalScrollElements",
+			"setMouseWheelScrolling",
+			"preventDefault",
+			"#hand",
+			".section-image",
+			"fullpage",
+			"#hand",
+			"show",
+			"display",
+			"scrollshow",
+			"href",
+			"amazingFeatures",
+			"#hand",
+			"section-image",
+			"#hand",
+			"activetab",
+			"SocialCtrl",
+			"social",
+			"payments",
+			"app_ticket_details.html",
+			".invoice-content-2 .invoice-body h3",
+			"inline",
+			"datetimepicker-inline",
+			"typeahead_custom",
+			"typeahead-custom.php",
+			"PAGE BASE CONTENT",
+			"all_services",
+			"datatable_ajax3",
+			"all_vendors"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<title>Aerate Solutions Pvt Ltd</title>",
+			"reports-detail.php"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/F/xampp/htdocs/t-hub/events.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 44190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37682,
+								37682
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9431.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/F/xampp/htdocs/t-hub/cal/lib/fullcalendar.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 379253,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								277808,
+								277808
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 134767.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/F/xampp/htdocs/t-hub/js/fullcalendar.min.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 231837,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25945,
+								25928
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 923.0,
+						"translation.y": 3721.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/F/xampp/htdocs/t-hub/scss/pages/_events.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15651,
+								15651
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 10581.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/F/xampp/htdocs/t-hub/cal/lib/fullcalendar.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30847,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3791,
+								3791
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2422.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/f1studioz/AppData/Local/Temp/Rar$DIa0.520/fullcalendar.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30834,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								30834
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 19289.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/F/xampp/htdocs/acheron/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								838,
+								821
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/F/xampp/htdocs/acheron-pm/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2823,
+								2808
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 924.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/F/xampp/htdocs/acheron-pm/pages/cal-deliverable.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11660,
+								11535
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3869.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "T-Hub.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"full",
+				"cal\\lib\\fullcalendar.css"
+			],
+			[
+				"scree",
+				"theme\\Business\\images\\screen-03.css"
+			],
+			[
+				"style",
+				"css\\style.css"
+			],
+			[
+				"inc.search_header.php",
+				"theme\\default\\inc.search_header.php"
+			],
+			[
+				"assets/css/responsive-tabs.css",
+				"assets\\css\\responsive-tabs.css"
+			],
+			[
+				"assets/css/simplegrid.css",
+				"assets\\css\\simplegrid.css"
+			],
+			[
+				"examples.js",
+				"assets\\js\\examples.js"
+			],
+			[
+				"js/js/jquery.fullpage.js",
+				"the99App\\js\\js\\jquery.fullPage.js"
+			],
+			[
+				"them",
+				"css\\theme.css"
+			],
+			[
+				"fullpa",
+				"js\\js\\jquery.fullPage.js"
+			],
+			[
+				"js/js/scripts.js",
+				"js\\js\\scripts.js"
+			],
+			[
+				"js/jquery.scrollappear.js",
+				"js\\jquery.scrollappear.js"
+			],
+			[
+				"js/script.js",
+				"js\\script.js"
+			],
+			[
+				"jquery.appear.js",
+				"js\\js\\jquery.appear.js"
+			],
+			[
+				"jquery.fullpage.js",
+				"js\\js\\jquery.fullPage.js"
+			],
+			[
+				"invoice",
+				"assets\\pages\\css\\invoice-2.min.css"
+			],
+			[
+				"invoi",
+				"assets\\pages\\css\\invoice-2.css"
+			],
+			[
+				"head",
+				"header.php"
+			],
+			[
+				"components-date-time-pickers.min.js",
+				"assets\\pages\\scripts\\components-date-time-pickers.min.js"
+			],
+			[
+				"typeahead.bundle.min",
+				"assets\\global\\plugins\\typeahead\\typeahead.bundle.min.js"
+			],
+			[
+				"components-typeahead.min.js",
+				"assets\\pages\\scripts\\components-typeahead.min.js"
+			],
+			[
+				"assets/pages/scripts/table-datatables-ajax.min.js",
+				"assets\\pages\\scripts\\table-datatables-ajax.min.js"
+			],
+			[
+				"assets/pages/scripts/components-ion-sliders.min.js",
+				"assets\\pages\\scripts\\components-ion-sliders.min.js"
+			],
+			[
+				"assets/layouts/layout5/css/custom.min.css",
+				"assets\\layouts\\layout5\\css\\custom.min.css"
+			],
+			[
+				"custom.c",
+				"assets\\layouts\\layout5\\css\\custom.min.css"
+			],
+			[
+				"components-multi-select.js",
+				"assets\\pages\\scripts\\components-multi-select.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"F:\\xampp\\htdocs\\aerate\\T-Hub.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
