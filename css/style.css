@@ -43,6 +43,30 @@ body{
 /*-----------------------------------------------------------------------------------*/
 
 /*--------------colors--------------*/
+textarea {
+    width: 100%;
+    height: 100px;
+    padding: 12px 10px;
+    background-color: white;
+    resize: none;
+}
+.help input {
+	width: 100%;
+}
+
+#name-input {
+	padding-top: 8px;
+}
+
+.help form #inner-form-btn{
+	color: white;
+	font-weight: 400;
+	background-color: black;
+	border: 1px solid black;
+	border-radius: 0px;
+	padding:10px 30px;
+	letter-spacing: 3px;
+}
 
 .case-studies-portfolio .options .filters li a.active,
 .white, .white a, a.white {
