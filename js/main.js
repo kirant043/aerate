@@ -109,16 +109,7 @@ jQuery( document ).ready(function($) {
       } )( jQuery );
 
      // Sectionize-Control 
-      if ($('select').length > 0) {
-        $('select').selectize({
-          create: true,
-          sortField: {
-            field: 'text',
-            direction: 'asc'
-          },
-          dropdownParent: 'body'
-        });
-      }
+     
 
     // MagnificPopup
     $('.post, .testimonials').magnificPopup({

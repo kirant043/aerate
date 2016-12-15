@@ -43,10 +43,58 @@ body{
 /*-----------------------------------------------------------------------------------*/
 
 /*--------------colors--------------*/
-textarea {
+
+.help form#free div.form-group input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+   font:500 11px Lato;
+   padding-left: 5px;
+   padding-top: 3px;
+}
+
+.help form#free div.form-group input:-moz-placeholder { /* Firefox 18- */
+    font:500 11px Lato;
+     padding-left: 5px;
+}
+.help form#free div.form-group input::-moz-placeholder { /* Firefox 19+ */
+    font:500 11px Lato;
+     padding-left: 5px;
+}
+.help form#free div.form-group input:-ms-input-placeholder { /* IE 10+ */
+    font:500 11px Lato;
+     padding-left: 5px;
+}
+.help form#free div.form-group textarea::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+   font:500 11px Lato;
+    padding-left: 5px;
+}
+.help form#free div.form-group textarea:-moz-placeholder { /* Firefox 18- */
+    font:500 11px Lato;
+     padding-left: 5px;
+ }
+.help form#free div.form-group textarea::-moz-placeholder { /* Firefox 19+ */
+    font:500 11px Lato;
+     padding-left: 5px;
+}
+.help form#free div.form-group textarea:-ms-input-placeholder { /* IE 10+ */
+    font:500 11px Lato;
+     padding-left: 5px;
+}
+
+
+.help form#free div {
+	padding-left: 3px;
+}
+.help select {
+	height: 100px;
+    width: 100px;
+    padding: 5px;
+    background-color: white;
+}
+
+
+.help textarea {
     width: 100%;
     height: 100px;
-    padding: 12px 10px;
+    padding: 6px 0px;
     background-color: white;
     resize: none;
 }
@@ -2469,7 +2517,7 @@ img.post-foto{
 .archive select{
    margin-bottom: 60px;
    width: 263px;
-   height: 	48px;
+   height: 48px;
    line-height: 50px;
    padding-left: 20px;
 }

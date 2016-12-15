@@ -39,7 +39,7 @@
 					<ul class="white contact-block pull-right">
 						<li class="block"><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 				        <li class="block"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-			            <li class="block"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+			            <li class="block"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 						<li class="time"><i class="fa fa-clock-o primary-color" aria-hidden="true"></i>Mon - Fri : 09:00 - 17:00</li>
 						<li class="phone"><i class="fa fa-phone primary-color" aria-hidden="true"></i>9642247744</li>
 						
@@ -209,11 +209,7 @@
 							            		<li><a href="affliatemarketing.html">Affiliate Marketing</a></li>
 								</ul>
 							</div>
-							<div class="help clearfix">
-								<h4 class="small-h4 white">Need Help To Grow Your Business?</h4>
-								<p class="caps_large">Aerate will help you start  your own company.</p>
-								<a href="contact-us.html" class="button btn-gray btn_normal caps_normal"><i class="fa fa-envelope" aria-hidden="true"></i>get in touch</a>
-							</div>
+							
 							<div class="help">
                               <form id="free">
                                 <h4 class="small-h4 white">Get a Free Analysis report!</h4>
@@ -234,18 +230,41 @@
                                 </div>
                                 <div class="form-group">
                                     <select name="selectservice">
-                                         <option value="service1">service1</option>
+                                         <option value="">Select Service</option>
                                          <option value="service2">service2</option>
                                          <option value="service3">service3</option>
                                          <option value="service4">service4</option>
                                     </select>
                                 </div>
                                 <div class="form-group">
-                                    <textarea name="query" placeholder="Query"></textarea>
+                                    <textarea name="query" placeholder="Message"></textarea>
                                 </div>
                                 <button type="button" id="inner-form-btn">SUBMIT</button>
 
                               </form>
+                              <script>
+                                var frmvalidator = new Validator("free");
+                                frmvalidator.addValidation("Name","req","Please enter your First Name");
+                                frmvalidator.addValidation("Name","maxlen=20","Max length for FirstName is 20");
+ 
+                                frmvalidator.addValidation("companyname","req");
+                                frmvalidator.addValidation("companyame","maxlen=20");
+ 
+                               
+
+                                frmvalidator.addValidation("email-id","maxlen=50");
+                                frmvalidator.addValidation("email-id","req");
+                                frmvalidator.addValidation("email-id","email");
+ 
+                                frmvalidator.addValidation("phonenumber","maxlen=50");
+                                frmvalidator.addValidation("phonenumber","numeric");
+
+                                frmvalidator.addValidation("selectservice","req","Please select a service");
+                               
+ 
+                                frmvalidator.addValidation("query","maxlen=50");
+                                
+                            </script>
                            </div>			
 					</div><!-- .row -->
 				</div><!-- .container -->
