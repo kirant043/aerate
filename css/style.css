@@ -42,54 +42,58 @@ body{
 /*--------------------------------------- STYLES ------------------------------------*/
 /*-----------------------------------------------------------------------------------*/
 
-/*--------------colors--------------*/
-
-.help form#free div.form-group input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+/*--------------placeholders-------------*/
+.help form#analysis-report div.form-group input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
    font:500 11px Lato;
    padding-left: 5px;
    padding-top: 3px;
 }
 
-.help form#free div.form-group input:-moz-placeholder { /* Firefox 18- */
+.help form#analysis-report div.form-group input:-moz-placeholder { /* Firefox 18- */
     font:500 11px Lato;
      padding-left: 5px;
 }
-.help form#free div.form-group input::-moz-placeholder { /* Firefox 19+ */
+.help form#analysis-report div.form-group input::-moz-placeholder { /* Firefox 19+ */
     font:500 11px Lato;
      padding-left: 5px;
 }
-.help form#free div.form-group input:-ms-input-placeholder { /* IE 10+ */
+.help form#analysis-report div.form-group input:-ms-input-placeholder { /* IE 10+ */
     font:500 11px Lato;
      padding-left: 5px;
 }
-.help form#free div.form-group textarea::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+.help form#analysis-report div.form-group textarea::-webkit-input-placeholder { /* Chrome/Opera/Safari */
    font:500 11px Lato;
     padding-left: 5px;
 }
-.help form#free div.form-group textarea:-moz-placeholder { /* Firefox 18- */
+.help form#analysis-report div.form-group textarea:-moz-placeholder { /* Firefox 18- */
     font:500 11px Lato;
      padding-left: 5px;
  }
-.help form#free div.form-group textarea::-moz-placeholder { /* Firefox 19+ */
+.help form#analysis-report div.form-group textarea::-moz-placeholder { /* Firefox 19+ */
     font:500 11px Lato;
      padding-left: 5px;
 }
-.help form#free div.form-group textarea:-ms-input-placeholder { /* IE 10+ */
+.help form#analysis-report div.form-group textarea:-ms-input-placeholder { /* IE 10+ */
     font:500 11px Lato;
      padding-left: 5px;
 }
 
 
-.help form#free div {
-	padding-left: 3px;
-}
-.help select {
-	height: 100px;
-    width: 100px;
-    padding: 5px;
-    background-color: white;
-}
+/*---------analysis report style-------*/
+.help form#analysis-report  div {   
+  padding-left: 3px; 
+} 
+  .help select {  
+     height: 26px;  
+     width: 100%;  
+     padding: 1px;  
+     background-color: white; 
+     font:500 11px Lato;
+ }
+.help select option:first-child {
+	display: none;
 
+}
 
 .help textarea {
     width: 100%;
@@ -115,6 +119,8 @@ body{
 	padding:10px 30px;
 	letter-spacing: 3px;
 }
+
+/*--------------colors--------------*/
 
 .case-studies-portfolio .options .filters li a.active,
 .white, .white a, a.white {
